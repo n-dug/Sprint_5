@@ -1,0 +1,13 @@
+class Constants:
+    RIGHT_PASSWORD = '098765'
+    WRONG_PASSWORD = '123'
+    RETRIEVE_PASSWORD = '09887665'
+    ONE_TIME_PASSWORD = '111111'
+    EMAIL = 'dugaeva_10@gmail.com'
+    URL = 'https://stellarburgers.nomoreparties.site'
+    URL_REG = URL + '/register'
+    URL_LOG = URL + '/login'
+    URL_PROFILE = URL + '/account/profile'
+    URL_RESET = URL + '/reset-password'
+    FORGOT_PASSWORD = URL + '/forgot-password'
+    URL_S = URL + '/'
